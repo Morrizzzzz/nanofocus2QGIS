@@ -38,8 +38,26 @@ The RCE-lab colleague shared an export of the Axe in .csv format as show below:
 ```
 
 Since we foremost want to explore the data Maurice’s first approach is to add the data to QGIS. All processing in QGIS can also be done using jupyter notebooks, which is worth to explore, but would require a bit more time to do so.
-Using GenAI I created a QGIS plugin with which the data can easily be loaded into QGIS. This plugin can be accessed [here](./QGIS_plugin)
+Using GenAI I created a QGIS plugin with which the data can easily be loaded into QGIS. This plugin can be accessed [here](./QGIS_plugin).
 
+## Raster Analyses 
+
+[Relief Visualization Toolbox (RVT)](https://www.zrc-sazu.si/en/rvt) to quicky perform a series of analyses.
+   
+    - hillshading,
+    - hillshading from multiple directions,
+    - PCA of hillshading,
+    - slope gradient,
+    - simple local relief model,
+    - sky-view factor (as developed by our team),
+    - anisotropic sky-view factor,
+    - positive and negative openness,
+    - sky illumination, and
+    - local dominance.
+
+Their [QGIS plugin](https://github.com/EarthObservation/rvt-qgis)
+
+[3D viewing QGIS](https://docs.qgis.org/3.40/en/docs/user_manual/map_views/3d_map_view.html)
 
 
 
