@@ -38,7 +38,7 @@ The RCE-lab colleague shared an export of the Axe in .csv format as show below:
 ```
 
 Since we foremost want to explore the data Maurice’s first approach is to add the data to QGIS. All processing in QGIS can also be done using jupyter notebooks, which is worth to explore, but would require a bit more time to do so.
-Using GenAI I created a QGIS plugin with which the data can easily be loaded into QGIS. This plugin can be accessed here = >  
+Using GenAI I created a QGIS plugin with which the data can easily be loaded into QGIS. This plugin can be accessed [here](./QGIS_plugin)
 
 
 
