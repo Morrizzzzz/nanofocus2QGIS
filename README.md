@@ -3,7 +3,7 @@
 *Memo dr. Maurice de Kleijn*
 
 ## Context
-During the site visit of the archaeology department from RCE Amersfoort at the Rijkserfgoed lab in Amsterdam on the 29th of January archaeologist Liesbeth Theunissen brought a Bronze Tin Axe dating 1600-1400 BCE (figure 1). Liesbeth was interested to know if instruments at the Rijkserfgoedlab could help her to answer the question if the cut/edge of the axe has been sharpend or hammering. 
+During the site visit of the archaeology department from RCE Amersfoort at the Rijkserfgoed lab in Amsterdam on the 29th of January an archaeology colleague brought a Bronze Tin Axe dating 1600-1400 BCE (figure 1). Liesbeth was interested to know if instruments at the Rijkserfgoedlab could help her to answer the question if the cut/edge of the axe has been sharpend or hammering. 
 
 
 One of the instruments that was used to gain a better understanding on whether the axe was hammered or sharpend was a Mahr Confocal Microscope (figure 2). 
